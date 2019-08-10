@@ -49,3 +49,7 @@
 ## [Test - Mandelbrot Set](./Test-MandelbrotSet) 
 
 ![](./Test-MandelbrotSet/capture.jpg)
+
+## [Cross Necklace](./CrossNecklace)
+
+![](./CrossNecklace/capture.png)
