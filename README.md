@@ -58,10 +58,6 @@
 
 ![](./CartoonLandscape/capture.png)
 
-## [Cartoon Landscape](./CartoonLandscape)
-
-![](./CartoonLandscape/capture.png)
-
 ## [Colorful Lights](./ColorfulLights)
 
 ![](./ColorfulLights/capture.png)
